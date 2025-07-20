@@ -50,7 +50,7 @@ body {
 /* Main Content */
 .main {
     min-height: 100vh;
-    background: url(/images/bg-img.jpg) no-repeat;
+    background: url(./images/bg-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     transition: 0.3s ease;
